@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Kalnia:wght@100;200;300;400;500;600;700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Zilla+Slab:wght@300&display=swap');
+
+#root {
+  /* max-width: 1400px; */
+  margin: 0 auto;
+  /* padding: 1rem; */
+  text-align: center;
+}
+body{
+  background-color: rgb(2, 2, 75) !important;
+}
+
+.logo {
+ font: 700;
+ font-size: 20px;
+ 
+  
+  font-family: "Philosopher", sans-serif;
+}
+ 
+
+ 
+ 
+
+.blur-md {
+  filter: blur(5px);
+}
